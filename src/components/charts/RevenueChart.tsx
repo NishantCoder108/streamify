@@ -1,10 +1,10 @@
-import React, { act } from "react";
+import React from "react";
 import {
   PieChart,
   Pie,
   Cell,
   Tooltip,
-  Legend,
+  // Legend,
   ResponsiveContainer,
 } from "recharts";
 import { RevenueSource } from "../../types";
