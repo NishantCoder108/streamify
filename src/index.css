@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+.recharts-pie-sector:focus,
+.recharts-pie-sector > g:focus,
+.recharts-pie-sector > g > g:focus {
+  outline: none !important;
+  outline-color: none !important;
+  outline-style: none !important;
+  outline-width: none !important;
+}
+
+.recharts-pie-chart:focus {
+  outline: none;
+}
+.recharts-wrapper > svg > g {
+  outline: none !important;
+}
+
+/* Additional fallback styles */
+g:focus,
+path:focus {
+  outline: none !important;
+}
