@@ -4,6 +4,10 @@
 
 This project is designed to provide an intuitive and efficient way to visualize data using interactive charts. The application is built using React.js, TypeScript, Recharts and TailwindCSS, ensuring a seamless user experience with a modern UI.
 
+Demo Check:
+
+https://github.com/user-attachments/assets/3f0335db-e8c1-4ded-b14d-399f5538dc4a
+
 ## Live Demo
 
 Check out the live version here:  
