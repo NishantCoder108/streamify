@@ -4,7 +4,8 @@
 
 This project is designed to provide an intuitive and efficient way to visualize data using interactive charts. The application is built using React.js, TypeScript, Recharts and TailwindCSS, ensuring a seamless user experience with a modern UI.
 
-<video src="./PlantD _ Colosseum Hackthon Week 2 Update.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/NishantCoder108/streamify/video-assests/PlantD%20_%20Colosseum%20Hackthon%20Week%202%20Update.mp4" controls width="100%"></video>
+
 
 
 ## Live Demo
